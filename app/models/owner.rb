@@ -9,7 +9,7 @@ class Owner
 	def birthdate
 		birthdate = Date.new(1971, 9, 30)
 	end
-	
+
 	def countdown
 		today = Date.today
 
